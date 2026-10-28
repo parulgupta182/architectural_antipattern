@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary / generated
+tmp/
+temp/
+*.log
+
+# External repositories / downloaded benchmarks
+external/
+downloads/
+
+# Secrets
+.env
+*.key
+*.token
